@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "29931716387",
+    "firebase_url": "https://profilepage2-a90d3.firebaseio.com",
+    "project_id": "profilepage2-a90d3",
+    "storage_bucket": "profilepage2-a90d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29931716387:android:aa43c6f9d1bc2395c65696",
+        "android_client_info": {
+          "package_name": "com.example.KrishiKart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29931716387-pvi8t7p2b9cd7h8uau732nq3mjs3peg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.KrishiKart",
+            "certificate_hash": "9d8e47fffec5e6e487d2b8ed4e7376174b7c4285"
+          }
+        },
+        {
+          "client_id": "29931716387-l5fj7ps4u2jhehvrfci80tnqipsk2geu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEAI-CFmNISRfFcbnIiVdkg5oBIT0Sww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29931716387-l5fj7ps4u2jhehvrfci80tnqipsk2geu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29931716387:android:dc3c1a26fa82d26ac65696",
+        "android_client_info": {
+          "package_name": "com.example.profilepage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29931716387-elg2p60b7hvbbo9v9fd8580f9k2qev1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profilepage2",
+            "certificate_hash": "9d8e47fffec5e6e487d2b8ed4e7376174b7c4285"
+          }
+        },
+        {
+          "client_id": "29931716387-l5fj7ps4u2jhehvrfci80tnqipsk2geu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEAI-CFmNISRfFcbnIiVdkg5oBIT0Sww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29931716387-l5fj7ps4u2jhehvrfci80tnqipsk2geu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
